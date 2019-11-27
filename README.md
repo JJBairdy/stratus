@@ -11,7 +11,7 @@ The Chrome Extension is published here - * [Chrome Store](https://chrome.google.
 
 ### Behind the Project
 
-Stratus is just a bunch of regexes that look for word indicators or strings that would suugest a technique from Mitre's ATT&CK framework is being described. It looks for matches on a web page and highlights them in text (in Yellow for a word match and Blue for a string/sentence match). The popup provides an overview of techniques.
+Stratus is just a bunch of regexes that look for word indicators or strings that would sugest a technique from Mitre's ATT&CK framework is being described. It looks for matches on a web page and highlights them in text (in Yellow for a word match and Blue for a string/sentence match). The popup provides an overview of techniques.
 
 Regexes for Malware and Actor Groups is also included!
 
